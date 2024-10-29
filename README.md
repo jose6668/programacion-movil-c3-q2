@@ -35,3 +35,5 @@ ionic serve
 ![paso 7](imagenes/7.png)
 
 [video paso a paso]()
+
+a
