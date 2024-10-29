@@ -6,7 +6,7 @@ En este Ejemplo se realiza un formulario de una tienda y se desarrollado con Vue
 - programacion-movil-c3-q2
 - Ejemplo de Formulario para una tienda
   - Requisitos Previos
-  - Ejecución del Proyecto
+  - Ejecución del Ejercicio
   - Ejemplo del Código
 
 ## Requisitos Previos
@@ -18,7 +18,7 @@ Antes de comenzar, asegúrate de tener instalados los siguientes programas:
 
 ## Ejecución del Proyecto
 
-Para ejecutar el proyecto en un servidor local de desarrollo, utiliza:
+Para ejecutar el Ejercicio en un servidor local de desarrollo, utiliza:
 
 ```bash
 ionic serve
@@ -36,4 +36,3 @@ ionic serve
 
 [video paso a paso]()
 
-a
